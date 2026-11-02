@@ -24,6 +24,6 @@ I enjoy building things that I can actually use, especially things that focus on
 **Languages:** Python, C++, Rust, Go, JavaScript/TypeScript, SQL  
 **Tools & frameworks:** React, Tauri, Linux, Git, Docker, PostgreSQL, Nginx, MQTT
 
-Outside of programming, I'm learning Japanese and guitar, playing Magic The Gathering, and hiking as much as I can :)
+Outside of programming, I'm learning Japanese and guitar and hiking as much as I can :)
 
 **[Website](https://willcook.org)** · **[LinkedIn](https://www.linkedin.com/in/willaurum/)** · **[Email](mailto:williamcook0811@gmail.com)**
